@@ -2,7 +2,7 @@ Post-https://fcm.googleapis.com/fcm/send
 
 HEADERS
 Content-Type : application/json
-Authorization : key=AAAANhL_9ZA:APA91bHqXFmeaMLhvI4vUTv3cTjMbNUxN6pZhgF04rMT2BfxWfqo-BFf9Pb8Ju9FJgBh5ZA30nBvt__b39Ojn4i24yxBs6wtXfrTiJQkvYPsjNMGrxfswpc0yNIfNhzEHz9XyJyQ3slD
+Authorization : key=*************************************************
 
 (This Authorization key is generated from firebase project setting> cloud Messeging> cloud Messeging API(Legecy)> enable. This will create "Server key" which is used in header in this pattern key=server key.)
 
